@@ -1,0 +1,29 @@
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.Form1.resources
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\bin\Debug\CodeHemming.exe
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\bin\Debug\CodeHemming.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.exe
+c:\users\администратор\documents\visual studio 2010\Projects\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.pdb
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.exe
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.pdb
+D:\Theory_information\CodeHemming\CodeHemming\bin\Debug\CodeHemming.exe
+D:\Theory_information\CodeHemming\CodeHemming\bin\Debug\CodeHemming.pdb
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.Form1.resources
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.Properties.Resources.resources
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.exe
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.pdb
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\bin\Debug\CodeHemming.exe
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\bin\Debug\CodeHemming.pdb
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.Form1.resources
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.Properties.Resources.resources
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\-+Универ+-\_~_V_~_-_семестр\Theory_information\CodeHemming\CodeHemming\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.exe
+D:\C#\CodeHemming\CodeHemming\obj\x86\Debug\CodeHemming.pdb
